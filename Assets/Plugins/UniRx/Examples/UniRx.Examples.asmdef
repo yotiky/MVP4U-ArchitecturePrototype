@@ -1,0 +1,11 @@
+{
+    "name": "UniRx.Examples",
+    "references": [
+        "UniRx",
+        "UniRx.Async"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "UniRx.Async",
+    "references": [],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WSA"
+    ],
+    "excludePlatforms": []
+}
