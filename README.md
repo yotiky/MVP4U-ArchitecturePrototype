@@ -1,6 +1,8 @@
 # MVP4U ArchitecturePrototype
 「[Unityと協調するためのアーキテクチャ『MVP4U』 \- yotiky Tech Blog](http://yotiky.hatenablog.com/entry/2018/11/16/Unity%E3%81%A8%E5%8D%94%E8%AA%BF%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%80%8EMVP4U%E3%80%8F)」のアーキテクチャ検証のためのサンプルプロジェクトです。
 
+「[『MVP4U』の概念のポイント \- yotiky Tech Blog](http://yotiky.hatenablog.com/entry/2019/04/18/%E3%80%8EMVP4U%E3%80%8F%E3%81%AE%E6%A6%82%E5%BF%B5%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)」も併せて読むと良いかもです。
+
 ## 環境
 - Unity：2017.4.5f1
 - MRTK：2017.4.2.0
